@@ -15,12 +15,12 @@
   <img height="160em" src="https://github-readme-stats-flaventurini.vercel.app/api/top-langs/?username=flaventurini&layout=compact&langs_count=8&theme=tokyonight&hide=swift"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fla-CSS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fla-HTML" height="30" width="40"/> src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fla-CSS" height="30" width="40"/>  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fla-Python" height="30" width="40" />
   <img align="center" alt="Fla-Wordpress" height="30" width="40" />
   <img align="center" alt="Fla-VsCode" height="30" width="40" /> src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img align="center" alt="Fla-MySQL" height="30" width="40"      
+  <img align="center" alt="Fla-MySQL" height="30" width="40"/>      
   
 </div>
