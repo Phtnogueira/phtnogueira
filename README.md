@@ -10,9 +10,9 @@
  
 ##
 <div align="center">
-  <a href="https://github.com/flaventurini">
-  <img height="160em" src="https://github-readme-stats-flaventurini.vercel.app/api?username=flaventurini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-flaventurini.vercel.app/api/top-langs/?username=flaventurini&layout=compact&langs_count=8&theme=tokyonight&hide=swift"/>
+  <a href="https://github.com/phtnogueira">
+  <img height="160em" src="https://github-readme-stats-phtnogueira.vercel.app/api?username=phtnogueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-phtnogueira.vercel.app/api/top-langs/?username=phtnogueira&layout=compact&langs_count=8&theme=tokyonight&hide=swift"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,7 +20,7 @@
   <img align="center" alt="Fla-Python" height="30" width="40"  
   <img align="center" alt="Fla-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img align="center" alt="Fla-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Fla-VsCode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="fla-VsCode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="Fla-MySQL" height="30" width="40"  
   
 </div>
